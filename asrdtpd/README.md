@@ -3,6 +3,7 @@
 
 **Переводы:**
 * [Асинхронный и синхронный сброс. Методы проектирования: разделы 1, 2, 3](https://fpga-systems.ru/publ/raznoe/common/asinkhronnyj_i_sinkhronnyj_sbros_metody_proektirovanija_chast_vtoraja_razdely_1_2_3/40-1-0-128)
+* [Асинхронный и синхронный сброс. Методы проектирования: раздел 4](https://fpga-systems.ru/publ/raznoe/common/asinkhronnyj_i_sinkhronnyj_sbros_metody_proektirovanija_chast_vtoraja_razdel_4/40-1-0-129)
 
 
 **Оригинал**
